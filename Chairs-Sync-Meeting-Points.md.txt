@@ -1,0 +1,7 @@
+# Track Action Points
+# Agenda Items (30/04/25)
+* name change of draft-thoji-scone-trone-protocol and github (Done) 
+* IPR call preparation (In Progress)
+* Adoption call preparation (In Progress)
+* Provide Weekly WG Github Activity Summary (Done)
+* The next interim meeting is May 25
