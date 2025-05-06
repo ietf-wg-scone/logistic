@@ -8,8 +8,9 @@ Waiting to be sent to scone mailing list
 Title: IPR call on draft-thoji-scone-protocol-00
 
  Authors, Contributors, WG,
+ 
  Note that draft-thoji-scone-protocol-00 is the replacement of draft-thoji-scone-trone-protocol-01.
- The docment name change is based on discussion and agreement in the interim.
+ The document name change is based on discussion and agreement in the interim.
  
  As a prerequisite for a adoption on this document:
  
