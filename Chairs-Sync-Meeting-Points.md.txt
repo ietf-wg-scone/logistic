@@ -5,3 +5,8 @@
 * Adoption call preparation (In Progress)
 * Provide Weekly WG Github Activity Summary (Done)
 * The next interim meeting is May 25
+
+#Agenda items (10/05/2025)
+* IPR call prepration (Done)
+* Kick off WG adotion call (In progress)
+* Telcos for prototyping invest (Open)
